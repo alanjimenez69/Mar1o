@@ -1,0 +1,5150 @@
+fileFormatVersion: 2
+guid: 76dece74213871548a1bb0248cc391f5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161c461fa35b9944fbb7a481b309c695
+      internalID: -1062173313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503ccec53d133d042bc30f47c9984095
+      internalID: -1742521372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc33ec4dfef8f74c90a54da0059f10f
+      internalID: -981516800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65da8f314115364d8627fc1e9bfe727
+      internalID: 913492890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24506a01fe246ca4e9a9f7055d4e9af1
+      internalID: 136932150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0444e2001deed4fafee03150c4f06e
+      internalID: 600574656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95c6950209e6874a9df0c25f5d5d6d0
+      internalID: 442826563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f0efca3a174e34287b851c9e164c50
+      internalID: -32268151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350f195c8f3943a4f98fe60d822b6aba
+      internalID: -1483005372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f02558dff1292a4480a88c15f72085d
+      internalID: -822944333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484b6d87c13750d4fa862e9cec4b9a1d
+      internalID: 1061656501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6594607c15b09945b309b96a729e314
+      internalID: 2018790577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b2fb80d29971c45a02d5ea161e2670
+      internalID: 1452396241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2290b26b0a7b7d4aa496a53f36c75fd
+      internalID: 1946046348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b465ee308da213a44ba065be70996259
+      internalID: 996296596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946d991335ad50947b381c083dc9eef5
+      internalID: 2013902230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 400
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911a22941bb6e81459c9fdd683465856
+      internalID: 1287110149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b51f762543a9846a18266a21728154
+      internalID: -560854368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_18
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fbc6c3b49115b459bd0942a7e82f13
+      internalID: 132670700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c62ba21678b524c9480184ef9ee246
+      internalID: 1727473651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895cd84584fdb22479d4243d58f9a680
+      internalID: -381415554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_21
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed156528909b805418f417b08cc230cb
+      internalID: -1200167726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_22
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 401
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c3fb502faa43b48ae0fbc7834c8c55
+      internalID: -2112117999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_23
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e827988ae80dda43b2c6754e03f3495
+      internalID: -1096475021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8b117f0ee01e64294e6f2f14a17745
+      internalID: -2128453577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690985fafa670aa438e9603baf82d49a
+      internalID: 2018033308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_26
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f41663b694e8fc46b5a69dc6cd428ca
+      internalID: -347746550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_27
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b206952efe7fbf0498a7d9aeeb426494
+      internalID: 1713670411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_28
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bb099fbd157554fba99e66f76deb30
+      internalID: 439091575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_29
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeb24363d2501a45ac54cc2daa6ce44
+      internalID: -269094297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_30
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5c10c08b12ebd48ad8021697021ad4
+      internalID: -796999585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_31
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3a368d8e0ce4d4c98323bf6910f8bf
+      internalID: 28058515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_32
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c0e84236cec004ba658f0b2bb2a6b8
+      internalID: 810775261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_33
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d5b79460873984fbff8ab467493ab2
+      internalID: -661041597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_34
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43067f76c0c11f14cbf4128357ff7ecc
+      internalID: -1365676847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a44e6d3b32ea468d2f2b3e134ee2c
+      internalID: -1401596515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e27d3c49f404842953f5a4ad881285
+      internalID: 1966189098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e768dd48a0d6f74085ee6deac77e224
+      internalID: 1910679757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aea24aacba69342bd1eda92b38cdff
+      internalID: 1353442515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef23f4619deec64d955801b04e7d6e9
+      internalID: 631564802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_40
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c594d917497b84da4a3bba8c3376c2
+      internalID: 1166949019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6472064116d5f47947edd462e99abe
+      internalID: 418070856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_42
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dae13f12275ef49a1298ea41b45d1e
+      internalID: -1554036666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_43
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8cd225de5fed44981a8241a7a5b5a4
+      internalID: 1893156245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c3210e43a44fa4ab56ce75abddc6e3
+      internalID: 1037539038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_45
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b153b3d1101034cac5a6cbfe81cf57
+      internalID: 2018575670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeedf78c2ee4b941b913269f0dbff96
+      internalID: -1879466559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_47
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb00e9d092ecae418220e3935a07297
+      internalID: 1343761516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_48
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8642e5b4e329eff47953b4190f1c203a
+      internalID: -1795467483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_49
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f024a860d1f77479e6ba4996c308ed
+      internalID: -801825352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_50
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf8d6ea5d16bfc44a25f2beaa5b71b6
+      internalID: 1844678157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_51
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 382
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63173ef95a0f856489d377e01343850c
+      internalID: 1361389098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_52
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 382
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e22a7c36360a3949a881544303428f1
+      internalID: 437548615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_53
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 382
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cce38739fbdfeb469c7d727097f3bf9
+      internalID: -505568576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_54
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0b5e48e3803e5468bdc9a57640980b
+      internalID: 2022858693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_55
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 383
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed3782287e967a439dbea2e3fbeec11
+      internalID: 1118589801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_56
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c533bc063b98549a8ec90b9db0883c
+      internalID: 494156022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f995b6cd57a5708468922ba3f5bf26d6
+      internalID: 1861021015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_58
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61403eee961d8cb41bb560a002f3617f
+      internalID: 643251922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_59
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c7b543ae686124db45240ba71f858e
+      internalID: 468857568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_60
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe6de639fac7a94a80faffac2554c4c
+      internalID: -1256651347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_61
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c5bbe7e76fd114cb1d256125c022aa
+      internalID: 692503610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_62
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba068c5887b0b849aeb1ec27d55356c
+      internalID: 457217569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_63
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 381
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2240118009ba0694381b5f425a66f09e
+      internalID: -2000103416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_64
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 389
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118519d6f31d18547913868085a163b0
+      internalID: 1254700625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_65
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 389
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66783acb7d6f864bb86e85296357eef
+      internalID: 35793882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_66
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 389
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74be626ef8003d143aab15e3b38e17ee
+      internalID: 197195840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_67
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 389
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9540aadc96de84581f9afbbc62b8c3
+      internalID: -1273879864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_68
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 389
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149d2fe0155d36a4da0fe1c590821dcb
+      internalID: -1999526460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_69
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 389
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09243c032b366d34cb4d00e87ec0e791
+      internalID: 1498614761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a975be9286463d1429b608022c55d6bf
+      internalID: 1714868386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deb31c2802c7e3428700d05c6e878fb
+      internalID: 1861405542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_72
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc934c84d0078624eb69ea54dcd02129
+      internalID: -734797942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_73
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a953ba25d5c360479140343f3e72cfc
+      internalID: -1130313242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8213b59c892e3084aa462bcc4e3491e5
+      internalID: 1420410966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_75
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 349
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce5d73cc26bb0f41ac4707cae5f44b6
+      internalID: -942962887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_76
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81860783f2191549a0df6993dd34380
+      internalID: 880559346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_77
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b8176adce61974ca984814f165cb7e
+      internalID: -377094353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_78
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589f496a87ca034498bd194f19e0eaf6
+      internalID: 1153504109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_79
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983a7ee033284af4fbcdc76694baa9b2
+      internalID: -200769612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_80
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b37a013e1f12d74a85d4ac93f9eeaad
+      internalID: 1380434641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_81
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f0f85f7672af478c8f3417f31e9d6
+      internalID: 664603859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_82
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 366
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb13f5b3938cf8b409e816ad5341149f
+      internalID: 1993710643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_83
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd632d11f7da3748ba69fd22fa36f39
+      internalID: 1380841979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_84
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aa627331c3e554e98e6d902bd744df
+      internalID: -1201858925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_85
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d36ebe542ef86428e2d12e2b9b0d2d
+      internalID: -23615085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_86
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 371
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5573f892ec60a4c943bc0ba387fe3e
+      internalID: -1558018710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_87
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 371
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a113c1b4f5b77c41a8571da3f64e6bc
+      internalID: -2085561448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_88
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 371
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629938fa4843b4c44aa57eda0eb977be
+      internalID: 382784494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_89
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 371
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c022f5c38b6f249aba1038099f202a
+      internalID: 1190210387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_90
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 379
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f96857ea888f034ea64ad5c4bdc48db
+      internalID: -109440276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_91
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 379
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff05102f67e7c441b752a6c7b4bd1c5
+      internalID: 1024319685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_92
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 365
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad7272aec2bb684dbebe0b841f0a76a
+      internalID: 475047479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_93
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e129858a2b6c3e4c90d1b0eec3409b0
+      internalID: 1971181293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_94
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab75fc317bfbca4cb14d48bf91c7972
+      internalID: -1671991359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_95
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af60b7c8d54340d41a42230efe9b6503
+      internalID: -128419851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_96
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb67dbcc15201945b76a203d70962f0
+      internalID: 131651458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_97
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0c7422193d3e342b5d58d63eb5409c
+      internalID: 422496860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_98
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12caf2e9b72b6c4c94db83a0297d1ff
+      internalID: 277590028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_99
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3591a278848c9a44a04eb0980c0d76c
+      internalID: 300077974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_100
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ae72552072ece438985b157137d5e2
+      internalID: 70295546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_101
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 369
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d4abaca10afe447bdd0cf8ce1d380b
+      internalID: -1767005842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_102
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 369
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8028f2c768aa69c448072a13ab8686b8
+      internalID: -1635855408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d035a792bffaf234096565f2ec91e442
+      internalID: -374307524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_104
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2256cd9b9bf1e5944acdd01da1ed103e
+      internalID: -754906947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_105
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2fcd39b98af5a4fa00189f7255f4d0
+      internalID: 416359405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_106
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb972b4d88dffe14cac26a13c25c0b70
+      internalID: 1067834967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_107
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42a4d83f1d89434280e4517abab9d13
+      internalID: -2103551803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_108
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800433ef9f005d9468afdc69db9c6eae
+      internalID: -493366622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_109
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e55b06a589d01244bc497ab1dd95577
+      internalID: 1534830666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_110
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b925f8b14e9e7d4d9ed3be952b886d0
+      internalID: -278880419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_111
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1024a162c8afca04d8a982fc91db6764
+      internalID: 316086553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_112
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389954a2bc0a063419fda1b3472a054b
+      internalID: -794959491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_113
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c317a5d5e0bad488e80612277aa1cf
+      internalID: 851441327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_114
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb53cf73f06400540be47f870e235a76
+      internalID: 284014176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_115
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3a07be39678504d9998bcf5525c9f1
+      internalID: 1483260013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_116
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8a627c649d81843a6636ff9df56946
+      internalID: -1638261972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_117
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 348
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45f2c1c00a4f034abb4657c8e81223c
+      internalID: 1164110364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_118
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 348
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faed1cdfe9f5ecb4d9ecf595b21c9842
+      internalID: 620159711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_119
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 348
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667522bdc82e5a240801bd5ff904a6ad
+      internalID: -1793355027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_120
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 361
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16327bcc4302c0540bdbf74451d06267
+      internalID: 1412354980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_121
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 361
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ccd9f84930ca64a97ef50458d616b8
+      internalID: 1153684446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_122
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 361
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f66abcd9308e64a98122cf5d6d7cb7
+      internalID: -1339968138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_123
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 361
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab38ca8a43000d498db2bf0bb0b443b
+      internalID: -313889613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_124
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 359
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9636819dbf68cb64f886f048339c8d64
+      internalID: 151577526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_125
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 359
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3975c0f7fc6171f459f2e997bb57bf5b
+      internalID: -1453026862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_126
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 351
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea7a2193ef4c1248adac6c54171267c
+      internalID: 667303403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_127
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 351
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bc8e24ffb20b74183efa03019b1388
+      internalID: 1361286628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_128
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 351
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af88d5b6a71fbd4468799c5a9d3fab3e
+      internalID: -815246577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_129
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 351
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b1426f5ff32f54587f0849dc75759c
+      internalID: 1759911375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_130
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb39b134e2b1fcd47b1f2a0c9598f71a
+      internalID: 1377358075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_131
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4c00cab42de8346bbdfa39bacd9039
+      internalID: 764321592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_132
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e543ff119e06ba49a5e0cf3cf2afd17
+      internalID: 1222409134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_133
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 349
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452db25cc6f520a4fb39002890206882
+      internalID: 1487236034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_134
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 349
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381470ba27be8f346add1be9b05e34a1
+      internalID: 1095333504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_135
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 331
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9d3a5ce5ad8344d9a64a3f4242d54c
+      internalID: -1253480650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_136
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 331
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693558efdbfa4d646b5f6890b2582646
+      internalID: 1996138902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_137
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 331
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12a0a0f3994dc743a642157c1b6feb1
+      internalID: 1706169169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_138
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 317
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729cc7f31a6e14444985694af0e952a6
+      internalID: 275590849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_139
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 341
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfd3e81e5026974fa6a56855a218105
+      internalID: 343088456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_140
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 341
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfda10f9cd52864483e80c34ddc8d55
+      internalID: 90256407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_141
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 339
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c817a93390e98d44af6199ed4194f77
+      internalID: -2070727792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d77d2e2a8767e4a82d43054f4d7deb
+      internalID: 89365191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_143
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c62f7459c738fa4babd6baf22fb052d
+      internalID: 1284494248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_144
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f71be045d9820d4b848caf98799d0f5
+      internalID: 1773240363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_145
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d691334499fb156499dc9bbe8804b28c
+      internalID: -776440771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_146
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f59bfdbaad773444bf87305abdaf4df
+      internalID: -350493005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_147
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 317
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cd4d98389871d41ba9bb0e4d123b13
+      internalID: -782173497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 317
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77214497649f74c4db48a06abfb08b38
+      internalID: -2069990977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_149
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 317
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839ddb61c14ef794898d47d0ede75bc5
+      internalID: 1410066338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_150
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 317
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4136627775baaff48bb7d3ae8eef1acd
+      internalID: -1284227157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_151
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4efa4449276df42b77563bcd189b79
+      internalID: 1885397743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_152
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f077aec2c52c643a1ee7fdd836c504
+      internalID: -1306607241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_153
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 317
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c71ae769fd6f34aac079742c142259
+      internalID: -1210851905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_154
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 317
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54112a6ea5d797a4ea26dd21d60ded94
+      internalID: -56857072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_155
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c2e228ce20b84b8cf3369aae865fa
+      internalID: -351235371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_156
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494a0694dbdd3c44fbd8bee0c1afd638
+      internalID: 887637262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_157
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b623dc5b041f6c54d9062edec96bacf5
+      internalID: -2122511238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_158
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 317
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c859deb9ebf875641926ef5fa162c973
+      internalID: -1230714571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ebace36c721f24d9880c96634c7811
+      internalID: -418500459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_160
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a9bb704f34dc840b0884ec5084024f
+      internalID: -1956382025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_161
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6eda4aced222641891bc41b8846cf0
+      internalID: -450341534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_162
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c115548617e5fa6419b2c525367f34aa
+      internalID: 891386155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_163
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 308
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa7a5dee348d164fb400a83c4b1687c
+      internalID: -2065325370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_164
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 291
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0b921a00e92494cb25b505209272ac
+      internalID: -713446937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 291
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d396e8688daa1bd44a44109c87f9c907
+      internalID: 646493357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_166
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 291
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf2136c08fe9c24cad7c0f825378f96
+      internalID: -538448094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_167
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd7db2feb4d7374eaf5bc2077a42390
+      internalID: -1307434868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_168
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183d1687125017045bbcea17510093ae
+      internalID: -382177952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_169
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 284
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ff63d8d68feb54c8796370130241e3
+      internalID: -1324559352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_170
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 291
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e6ec1e1f2351a4480c353a642bbc70
+      internalID: 2128432918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f210814fff799b842b168eac4c55d4a9
+      internalID: 106281346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_172
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15240ecd4a2a95c46a06b7a6a5b7b1e5
+      internalID: 1376073789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_173
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 266
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a248c094801ddf94bab2488e4819f005
+      internalID: 2051435505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_174
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcba436f03b0ecb4cb4276a85186f44c
+      internalID: 1389331990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_175
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57b20591802d04489d03ddf14080d58
+      internalID: 555665025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_176
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 247
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e691ae1475733dc4386a423ba1157ead
+      internalID: -1277472404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_177
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 247
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a21631bcac883b469751f2818a36f59
+      internalID: -455330574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_178
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 247
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678302278326eec44b300fcfc00e02c0
+      internalID: 2132393086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_179
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 247
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e854182743791b24abfb3784ab8344da
+      internalID: -1371139430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df533fbf2e47b5a41a616de3d8deb1e4
+      internalID: -1244262325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_181
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571fe1b81bb8c7a45a09c064db9c3e4c
+      internalID: -1099420900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_182
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 248
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae064484347f4442b7b7d44896fcb4c
+      internalID: 1692141715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_183
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 247
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4b6b4c4614c2b479e30d3fbd4f37d2
+      internalID: 470454700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_184
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 247
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d70f07e25a750d41855fac0b063dd58
+      internalID: -419840488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_185
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 247
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6bcda070e31fe4fbe6a684ed8e7305
+      internalID: 1023284913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_186
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 247
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a321e59e31497f4099597f93ff847fb
+      internalID: -1549249106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_187
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 222
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f508a475c81aa0e46b61c24e39b3796e
+      internalID: -686737870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_188
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 226
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d17a96166db894ab7c3cb7e6451de4
+      internalID: 493061979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_189
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 222
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea96cf947ce8ae45b46d1a467630ad8
+      internalID: 1600666151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_190
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 226
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85910c422f63784986c9460d2bda356
+      internalID: -1598812691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_191
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badd97b4652653041a288783da28d9f5
+      internalID: 575048089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_192
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b0e3f4fe47f2140a003d719065d4e0
+      internalID: -499610230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_193
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f2bfcd8b7d7da4a9ca9053a72ee07a
+      internalID: 78789953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_194
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 213
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddb7239b7367ae4d8854cb4a83350d2
+      internalID: -1245557972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_195
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 185
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf8690ff2eb177418ceb3667619d58a
+      internalID: -1724456332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_196
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 185
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da856098c57ee4a4f86a30711a93631b
+      internalID: -1785953753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_197
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 203
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26671c6a2a27c3749b40d2b497f6a2dc
+      internalID: 2105977140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_198
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 193
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642b8109eb681424b890ad0321710896
+      internalID: -1974547667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d863f2d7caa2b4da516622ee9a8a59
+      internalID: 526438965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_200
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c49d5140d58f647bc74ae10ee0153c
+      internalID: 1042550647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_201
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 160
+        width: 208
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dde37a59f84f441b549f44ab0773f8
+      internalID: -1960144852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_202
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 144
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe4f47606abc1e44907237636c8f2fb
+      internalID: -2039711184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_203
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 132
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be51629c4ad1c647a656d30a36f4c92
+      internalID: 639499059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_204
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 136
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6c66e52ac682549a963511a2292cea
+      internalID: -402341475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_205
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f9e29fcbf413e459dfa7be40c70ae5
+      internalID: -1815032130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_206
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f008815007ded74e94a356d9bb6ac78
+      internalID: 1758539006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_207
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa350029bcfd9ff4f99a8e0cddb51062
+      internalID: -889104266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_208
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 88
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19569ea8d37195c43bac4ab8329320a8
+      internalID: 1407084308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_209
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd36dae4de2d68148aa090774fc714da
+      internalID: 1725317314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_210
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 88
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc20cd3aeb90cab408e4229cc583d48f
+      internalID: 1793230771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_211
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 88
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1148631095cd3ff4b9681061a4a48fde
+      internalID: 1794983721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_212
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 112
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bae5a81fd20c34e8f78b9a68abda59
+      internalID: -446880993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_213
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132bc7e2e4d295840b6762407e246070
+      internalID: -1763894884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_214
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 88
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e3b3ad26dd35e4f8c17c95b9e041e2
+      internalID: -846824103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_215
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 56
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6346251a86bb6ac4093ac2bf98afbd3f
+      internalID: 2011022975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_216
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 76
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3133bbcde42b3d949a978b4c811668ec
+      internalID: 1272442436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_217
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 96
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d5611ab3f526c4bb16c7175af311bd
+      internalID: 833692133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_218
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c32ef35d8f16514bbda90eafd824f88
+      internalID: 191686477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_219
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fe57c430027364eaea4284f1f4ccf3
+      internalID: 1219718637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_220
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 56
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1f07457df4d844ab8495595478aefb
+      internalID: -553026081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_221
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ec9c36bea9b384fa4ad04ef064524f
+      internalID: 1050983715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_222
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 16
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df0da673f0027643b7558ef122829a1
+      internalID: 1616415405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_223
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 56
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdc28187e686754ab80547f0b9fd498
+      internalID: 6947390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_224
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 80
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0b85b8044542643b9b78e1f261a199
+      internalID: -379106913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_225
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81db104230753634cab8cf111e51adf6
+      internalID: -1107995690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_226
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42df4e2991ef50459b463427f73f8b5
+      internalID: 1751601848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - sprites all_227
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 16
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21f95a0d7f502b4b91aca01182c4fe2
+      internalID: -1855980164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Super Mario Bros - sprites all_178: 2132393086
+      NES - Super Mario Bros - sprites all_129: 1759911375
+      NES - Super Mario Bros - sprites all_8: -1483005372
+      NES - Super Mario Bros - sprites all_187: -686737870
+      NES - Super Mario Bros - sprites all_218: 191686477
+      NES - Super Mario Bros - sprites all_219: 1219718637
+      NES - Super Mario Bros - sprites all_64: 1254700625
+      NES - Super Mario Bros - sprites all_126: 667303403
+      NES - Super Mario Bros - sprites all_202: -2039711184
+      NES - Super Mario Bros - sprites all_30: -796999585
+      NES - Super Mario Bros - sprites all_45: 2018575670
+      NES - Super Mario Bros - sprites all_15: 2013902230
+      NES - Super Mario Bros - sprites all_49: -801825352
+      NES - Super Mario Bros - sprites all_124: 151577526
+      NES - Super Mario Bros - sprites all_102: -1635855408
+      NES - Super Mario Bros - sprites all_77: -377094353
+      NES - Super Mario Bros - sprites all_155: -351235371
+      NES - Super Mario Bros - sprites all_191: 575048089
+      NES - Super Mario Bros - sprites all_183: 470454700
+      NES - Super Mario Bros - sprites all_199: 526438965
+      NES - Super Mario Bros - sprites all_216: 1272442436
+      NES - Super Mario Bros - sprites all_5: 600574656
+      NES - Super Mario Bros - sprites all_75: -942962887
+      NES - Super Mario Bros - sprites all_131: 764321592
+      NES - Super Mario Bros - sprites all_208: 1407084308
+      NES - Super Mario Bros - sprites all_188: 493061979
+      NES - Super Mario Bros - sprites all_173: 2051435505
+      NES - Super Mario Bros - sprites all_42: -1554036666
+      NES - Super Mario Bros - sprites all_58: 643251922
+      NES - Super Mario Bros - sprites all_151: 1885397743
+      NES - Super Mario Bros - sprites all_74: 1420410966
+      NES - Super Mario Bros - sprites all_157: -2122511238
+      NES - Super Mario Bros - sprites all_106: 1067834967
+      NES - Super Mario Bros - sprites all_167: -1307434868
+      NES - Super Mario Bros - sprites all_225: -1107995690
+      NES - Super Mario Bros - sprites all_80: 1380434641
+      NES - Super Mario Bros - sprites all_152: -1306607241
+      NES - Super Mario Bros - sprites all_108: -493366622
+      NES - Super Mario Bros - sprites all_1: -1742521372
+      NES - Super Mario Bros - sprites all_158: -1230714571
+      NES - Super Mario Bros - sprites all_168: -382177952
+      NES - Super Mario Bros - sprites all_12: 1452396241
+      NES - Super Mario Bros - sprites all_90: -109440276
+      NES - Super Mario Bros - sprites all_29: -269094297
+      NES - Super Mario Bros - sprites all_143: 1284494248
+      NES - Super Mario Bros - sprites all_6: 442826563
+      NES - Super Mario Bros - sprites all_33: -661041597
+      NES - Super Mario Bros - sprites all_18: 132670700
+      NES - Super Mario Bros - sprites all_27: 1713670411
+      NES - Super Mario Bros - sprites all_120: 1412354980
+      NES - Super Mario Bros - sprites all_89: 1190210387
+      NES - Super Mario Bros - sprites all_142: 89365191
+      NES - Super Mario Bros - sprites all_93: 1971181293
+      NES - Super Mario Bros - sprites all_220: -553026081
+      NES - Super Mario Bros - sprites all_40: 1166949019
+      NES - Super Mario Bros - sprites all_69: 1498614761
+      NES - Super Mario Bros - sprites all_23: -1096475021
+      NES - Super Mario Bros - sprites all_78: 1153504109
+      NES - Super Mario Bros - sprites all_111: 316086553
+      NES - Super Mario Bros - sprites all_118: 620159711
+      NES - Super Mario Bros - sprites all_153: -1210851905
+      NES - Super Mario Bros - sprites all_171: 106281346
+      NES - Super Mario Bros - sprites all_96: 131651458
+      NES - Super Mario Bros - sprites all_99: 300077974
+      NES - Super Mario Bros - sprites all_145: -776440771
+      NES - Super Mario Bros - sprites all_133: 1487236034
+      NES - Super Mario Bros - sprites all_147: -782173497
+      NES - Super Mario Bros - sprites all_119: -1793355027
+      NES - Super Mario Bros - sprites all_130: 1377358075
+      NES - Super Mario Bros - sprites all_24: -2128453577
+      NES - Super Mario Bros - sprites all_68: -1999526460
+      NES - Super Mario Bros - sprites all_164: -713446937
+      NES - Super Mario Bros - sprites all_144: 1773240363
+      NES - Super Mario Bros - sprites all_194: -1245557972
+      NES - Super Mario Bros - sprites all_186: -1549249106
+      NES - Super Mario Bros - sprites all_53: -505568576
+      NES - Super Mario Bros - sprites all_179: -1371139430
+      NES - Super Mario Bros - sprites all_114: 284014176
+      NES - Super Mario Bros - sprites all_175: 555665025
+      NES - Super Mario Bros - sprites all_57: 1861021015
+      NES - Super Mario Bros - sprites all_98: 277590028
+      NES - Super Mario Bros - sprites all_51: 1361389098
+      NES - Super Mario Bros - sprites all_61: 692503610
+      NES - Super Mario Bros - sprites all_149: 1410066338
+      NES - Super Mario Bros - sprites all_95: -128419851
+      NES - Super Mario Bros - sprites all_46: -1879466559
+      NES - Super Mario Bros - sprites all_43: 1893156245
+      NES - Super Mario Bros - sprites all_50: 1844678157
+      NES - Super Mario Bros - sprites all_221: 1050983715
+      NES - Super Mario Bros - sprites all_76: 880559346
+      NES - Super Mario Bros - sprites all_66: 197195840
+      NES - Super Mario Bros - sprites all_91: 1024319685
+      NES - Super Mario Bros - sprites all_2: -981516800
+      NES - Super Mario Bros - sprites all_13: 1946046348
+      NES - Super Mario Bros - sprites all_47: 1343761516
+      NES - Super Mario Bros - sprites all_184: -419840488
+      NES - Super Mario Bros - sprites all_116: -1638261972
+      NES - Super Mario Bros - sprites all_222: 1616415405
+      NES - Super Mario Bros - sprites all_223: 6947390
+      NES - Super Mario Bros - sprites all_44: 1037539038
+      NES - Super Mario Bros - sprites all_128: -815246577
+      NES - Super Mario Bros - sprites all_137: 1706169169
+      NES - Super Mario Bros - sprites all_162: 891386155
+      NES - Super Mario Bros - sprites all_185: 1023284913
+      NES - Super Mario Bros - sprites all_4: 136932150
+      NES - Super Mario Bros - sprites all_200: 1042550647
+      NES - Super Mario Bros - sprites all_71: 1861405542
+      NES - Super Mario Bros - sprites all_132: 1222409134
+      NES - Super Mario Bros - sprites all_135: -1253480650
+      NES - Super Mario Bros - sprites all_176: -1277472404
+      NES - Super Mario Bros - sprites all_36: 1966189098
+      NES - Super Mario Bros - sprites all_165: 646493357
+      NES - Super Mario Bros - sprites all_32: 810775261
+      NES - Super Mario Bros - sprites all_83: 1380841979
+      NES - Super Mario Bros - sprites all_125: -1453026862
+      NES - Super Mario Bros - sprites all_193: 78789953
+      NES - Super Mario Bros - sprites all_154: -56857072
+      NES - Super Mario Bros - sprites all_25: 2018033308
+      NES - Super Mario Bros - sprites all_150: -1284227157
+      NES - Super Mario Bros - sprites all_174: 1389331990
+      NES - Super Mario Bros - sprites all_0: -1062173313
+      NES - Super Mario Bros - sprites all_198: -1974547667
+      NES - Super Mario Bros - sprites all_86: -1558018710
+      NES - Super Mario Bros - sprites all_17: -560854368
+      NES - Super Mario Bros - sprites all_67: -1273879864
+      NES - Super Mario Bros - sprites all_48: -1795467483
+      NES - Super Mario Bros - sprites all_103: -374307524
+      NES - Super Mario Bros - sprites all_163: -2065325370
+      NES - Super Mario Bros - sprites all_190: -1598812691
+      NES - Super Mario Bros - sprites all_181: -1099420900
+      NES - Super Mario Bros - sprites all_213: -1763894884
+      NES - Super Mario Bros - sprites all_70: 1714868386
+      NES - Super Mario Bros - sprites all_140: 90256407
+      NES - Super Mario Bros - sprites all_196: -1785953753
+      NES - Super Mario Bros - sprites all_19: 1727473651
+      NES - Super Mario Bros - sprites all_21: -1200167726
+      NES - Super Mario Bros - sprites all_146: -350493005
+      NES - Super Mario Bros - sprites all_189: 1600666151
+      NES - Super Mario Bros - sprites all_134: 1095333504
+      NES - Super Mario Bros - sprites all_3: 913492890
+      NES - Super Mario Bros - sprites all_16: 1287110149
+      NES - Super Mario Bros - sprites all_105: 416359405
+      NES - Super Mario Bros - sprites all_20: -381415554
+      NES - Super Mario Bros - sprites all_227: -1855980164
+      NES - Super Mario Bros - sprites all_35: -1401596515
+      NES - Super Mario Bros - sprites all_122: -1339968138
+      NES - Super Mario Bros - sprites all_210: 1793230771
+      NES - Super Mario Bros - sprites all_169: -1324559352
+      NES - Super Mario Bros - sprites all_54: 2022858693
+      NES - Super Mario Bros - sprites all_26: -347746550
+      NES - Super Mario Bros - sprites all_85: -23615085
+      NES - Super Mario Bros - sprites all_207: -889104266
+      NES - Super Mario Bros - sprites all_180: -1244262325
+      NES - Super Mario Bros - sprites all_110: -278880419
+      NES - Super Mario Bros - sprites all_203: 639499059
+      NES - Super Mario Bros - sprites all_84: -1201858925
+      NES - Super Mario Bros - sprites all_212: -446880993
+      NES - Super Mario Bros - sprites all_11: 2018790577
+      NES - Super Mario Bros - sprites all_94: -1671991359
+      NES - Super Mario Bros - sprites all_79: -200769612
+      NES - Super Mario Bros - sprites all_115: 1483260013
+      NES - Super Mario Bros - sprites all_139: 343088456
+      NES - Super Mario Bros - sprites all_159: -418500459
+      NES - Super Mario Bros - sprites all_63: -2000103416
+      NES - Super Mario Bros - sprites all_9: -822944333
+      NES - Super Mario Bros - sprites all_209: 1725317314
+      NES - Super Mario Bros - sprites all_172: 1376073789
+      NES - Super Mario Bros - sprites all_201: -1960144852
+      NES - Super Mario Bros - sprites all_38: 1353442515
+      NES - Super Mario Bros - sprites all_161: -450341534
+      NES - Super Mario Bros - sprites all_112: -794959491
+      NES - Super Mario Bros - sprites all_92: 475047479
+      NES - Super Mario Bros - sprites all_192: -499610230
+      NES - Super Mario Bros - sprites all_205: -1815032130
+      NES - Super Mario Bros - sprites all_109: 1534830666
+      NES - Super Mario Bros - sprites all_14: 996296596
+      NES - Super Mario Bros - sprites all_127: 1361286628
+      NES - Super Mario Bros - sprites all_121: 1153684446
+      NES - Super Mario Bros - sprites all_34: -1365676847
+      NES - Super Mario Bros - sprites all_59: 468857568
+      NES - Super Mario Bros - sprites all_81: 664603859
+      NES - Super Mario Bros - sprites all_101: -1767005842
+      NES - Super Mario Bros - sprites all_177: -455330574
+      NES - Super Mario Bros - sprites all_7: -32268151
+      NES - Super Mario Bros - sprites all_28: 439091575
+      NES - Super Mario Bros - sprites all_204: -402341475
+      NES - Super Mario Bros - sprites all_52: 437548615
+      NES - Super Mario Bros - sprites all_87: -2085561448
+      NES - Super Mario Bros - sprites all_182: 1692141715
+      NES - Super Mario Bros - sprites all_104: -754906947
+      NES - Super Mario Bros - sprites all_195: -1724456332
+      NES - Super Mario Bros - sprites all_138: 275590849
+      NES - Super Mario Bros - sprites all_82: 1993710643
+      NES - Super Mario Bros - sprites all_214: -846824103
+      NES - Super Mario Bros - sprites all_62: 457217569
+      NES - Super Mario Bros - sprites all_197: 2105977140
+      NES - Super Mario Bros - sprites all_215: 2011022975
+      NES - Super Mario Bros - sprites all_60: -1256651347
+      NES - Super Mario Bros - sprites all_113: 851441327
+      NES - Super Mario Bros - sprites all_156: 887637262
+      NES - Super Mario Bros - sprites all_88: 382784494
+      NES - Super Mario Bros - sprites all_100: 70295546
+      NES - Super Mario Bros - sprites all_117: 1164110364
+      NES - Super Mario Bros - sprites all_31: 28058515
+      NES - Super Mario Bros - sprites all_55: 1118589801
+      NES - Super Mario Bros - sprites all_97: 422496860
+      NES - Super Mario Bros - sprites all_41: 418070856
+      NES - Super Mario Bros - sprites all_136: 1996138902
+      NES - Super Mario Bros - sprites all_217: 833692133
+      NES - Super Mario Bros - sprites all_206: 1758539006
+      NES - Super Mario Bros - sprites all_107: -2103551803
+      NES - Super Mario Bros - sprites all_73: -1130313242
+      NES - Super Mario Bros - sprites all_10: 1061656501
+      NES - Super Mario Bros - sprites all_22: -2112117999
+      NES - Super Mario Bros - sprites all_166: -538448094
+      NES - Super Mario Bros - sprites all_72: -734797942
+      NES - Super Mario Bros - sprites all_141: -2070727792
+      NES - Super Mario Bros - sprites all_170: 2128432918
+      NES - Super Mario Bros - sprites all_148: -2069990977
+      NES - Super Mario Bros - sprites all_226: 1751601848
+      NES - Super Mario Bros - sprites all_39: 631564802
+      NES - Super Mario Bros - sprites all_37: 1910679757
+      NES - Super Mario Bros - sprites all_65: 35793882
+      NES - Super Mario Bros - sprites all_123: -313889613
+      NES - Super Mario Bros - sprites all_56: 494156022
+      NES - Super Mario Bros - sprites all_224: -379106913
+      NES - Super Mario Bros - sprites all_211: 1794983721
+      NES - Super Mario Bros - sprites all_160: -1956382025
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
