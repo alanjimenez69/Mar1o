@@ -4,15 +4,39 @@ using UnityEngine;
 
 public class MarioMovement : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public float Acceleration = 15.0f;
+    public float Speed = 1.0f;
+    public float JumpForce = 185.0f;
+
+    private Rigidbody2D Rigidbody2D;
+    private float Horizontal;
+    private float TimeBetweenJumps = 0.1f;
+    private float LastJump;
+    private float Velocity;
+
     void Start()
     {
+        Rigidbody2D = GetComponent<Rigidbody2D>();
         
     }
 
-    // Update is called once per frame
     void Update()
     {
+        Horizontal = Input.GetAxisRaw("Horizontal");
+        if (Horizontal != 0.0f)
+            Velocity = Mathf.Clamp(Velocity + Horizontal * Acceleration * Time.deltaTime, -1.0f, 1.0f);
+        else
+            Velocity -= Velocity * Acceleration * Time.deltaTime;
         
+        if (Input.GetKey(KeyCode.Space) && LastJump < Time.time - TimeBetweenJumps)
+        {
+            Rigidbody2D.AddForce(Vector2.up * JumpForce);
+            LastJump = Time.time;
+        }
+    }
+
+    private void FixedUpdate()
+    {
+        Rigidbody2D.velocity = new Vector2((Mathf.Abs(Velocity) < 0.01f ? 0.0f : Velocity) * Speed, Rigidbody2D.velocity.y);
     }
 }
