@@ -203,7 +203,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Acceleration: 15
   Speed: 1
-  JumpForce: 185
+  JumpForce: 150
 --- !u!212 &168205433
 SpriteRenderer:
   m_ObjectHideFlags: 0
