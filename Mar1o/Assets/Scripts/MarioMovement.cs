@@ -18,7 +18,6 @@ public class MarioMovement : MonoBehaviour
 	void Start()
 	{
 		Rigidbody2D = GetComponent<Rigidbody2D>();
-		
 	}
 
 	void Update()
