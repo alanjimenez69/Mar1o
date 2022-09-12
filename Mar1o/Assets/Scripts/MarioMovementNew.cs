@@ -5,15 +5,19 @@ using UnityEngine;
 public class MarioMovementNew : MonoBehaviour
 {
     private Rigidbody2D RB;
+[Tooltip("Velocidad de caminado")]
     public int  speed = 1;
+[Tooltip("Fuerza del brinco de mario")]
+[Range(1,10)]
+    public int jumpPower = 1;
     private bool facingRight = true;
     private float horizontalMove;
+[Tooltip("Selecciona la animacion de mario")]
     public Animator animator;
-
-    public int jumpPower = 1;
     private bool IsGrounded;
     public Transform FeetPos;
     public float CheckRadius;
+[Tooltip("Selecciona el piso (en layer)")]
     public LayerMask WhatIsGrounded;
     // Start is called before the first frame update
     void Start()

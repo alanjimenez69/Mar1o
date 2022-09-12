@@ -370,8 +370,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1
-  animator: {fileID: 168205437}
   jumpPower: 5
+  animator: {fileID: 168205437}
   FeetPos: {fileID: 81430610}
   CheckRadius: 0
   WhatIsGrounded:
