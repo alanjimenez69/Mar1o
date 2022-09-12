@@ -10,7 +10,11 @@ public class MarioMovementNew : MonoBehaviour
     private float horizontalMove;
     public Animator animator;
 
-    public int jumpPower = 25;
+    public int jumpPower = 1;
+    private bool IsGrounded;
+    public Transform FeetPos;
+    public float CheckRadius;
+    public LayerMask WhatIsGrounded;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,6 +30,10 @@ public class MarioMovementNew : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        IsGrounded = Physics2D.OverlapCircle(FeetPos.position, CheckRadius, WhatIsGrounded);
+        
+        animator.SetBool("IsGrounded", IsGrounded);
+
         if(horizontalMove < 0.0f && facingRight)
         {
             FlipPlayer();
@@ -35,8 +43,8 @@ public class MarioMovementNew : MonoBehaviour
             FlipPlayer();
         }
 
-        //aqui se asigna el boton para saltar
-        if(Input.GetKey(KeyCode.Space))
+        //aqui se asigna el boton para saltar GetKeyDown asigna el boton pulsado unicamente
+        if(Input.GetKeyDown(KeyCode.Space))
         {
             Jump();
         }
