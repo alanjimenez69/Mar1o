@@ -74,7 +74,7 @@ public class CameraFollowEditor : Editor
         //If they are setup display the Min and Max values along with preview button
         //Also have a reset button for the values
         if (script.setupComplete)
-        {            
+        {
             GUILayout.BeginHorizontal();
             GUILayout.Label("Minimum Values:", defaultStyle);
             GUILayout.Label("Maximum Values:", defaultStyle);
@@ -130,7 +130,7 @@ public class CameraFollowEditor : Editor
                     script.ss = CameraFollow.SetupState.Step1;
                 }
             }
-            //Step 1 : Setup the bottom left boundary (min values)        
+            //Step 1 : Setup the bottom left boundary (min values)
             else if (script.ss == CameraFollow.SetupState.Step1)
             {
                 //Instruction on what to do
