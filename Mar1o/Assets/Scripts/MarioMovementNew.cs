@@ -19,6 +19,7 @@ public class MarioMovementNew : MonoBehaviour
     public float CheckRadius;
 [Tooltip("Selecciona el piso (en layer)")]
     public LayerMask WhatIsGrounded;
+    //testing
     // Start is called before the first frame update
     void Start()
     {
